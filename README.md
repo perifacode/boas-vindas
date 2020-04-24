@@ -1,5 +1,9 @@
-<h1 id="seja-bem-vindo-ao-perifacode">Seja bem vindo ao perifaCode!</h1>
-<p>Salve! Ficamos muito feliz em ter você com a gente, no nosso servidor do Discord. Esperamos que seja algo que te ajude muito e que você se sinta totalmente a vontade!</p>
+<p align="center">
+    <img src="assets/logos/perifaCode.png" width="300px" alt="perifaCode Logo">
+      <h1 id="seja-bem-vindo-ao-perifacode">Q daora ter você por aqui!</h1>
+</p>
+
+<p>Salve! Ficamos muito felizes que você chegou ao nosso servidor do Discord. Agora ele é seu também! Esperamos que seja algo que te ajude muito e que você se sinta totalmente a vontade!</p>
 <p>Estamos enviando essa mensagem para mostrar como nosso servidor está organizado, assim você consegue entender melhor como ele funciona e tirar bastante proveito.</p>
 <p>Caso você não tenha familiaridade com o Discord, recomendamos dar uma olhadinha nesse tutorial: <a href="https://support.discordapp.com/hc/pt-br/articles/219470277-Come%C3%A7ando">Começando no Discord</a>.</p>
 <p>Nosso servidor é baseado em categorias. No momento, possuimos essas aqui: Geral, Desenvolvimento Pessoal, Design, Idiomas, Tecnologia, Segurança, Música, Organização, Comunicação e Eventos.<br>
