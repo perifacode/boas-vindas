@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https:github.com/perifacode/comunidade/raw/master/comunidade/assets/logos/perifaCode.png" width="300px" alt="perifaCode Logo">
+    <img src="https:github.com/perifacode/comunidade/raw/master/assets/logos/perifaCode.png" width="300px" alt="perifaCode Logo">
       <h1 id="seja-bem-vindo-ao-perifacode">Q daora ter você por aqui!</h1>
 </p>
 
